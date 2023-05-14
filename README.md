@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @poori-nuna __(밥풀이 누나🦴)__
+- 👋 Hi, I’m @poori-nuna __(푸리 누나🦴)__
 - 📫 How to reach me eungyeom_ha@yonsei.ac.kr
 - 📌 Data Science/ML/DL
 - 📗 study @Yonsei University      
